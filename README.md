@@ -1,4 +1,4 @@
-### WHat's up homies??
+### What's up homies??
 
 <!--
 **JoeyM2005/JoeyM2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
